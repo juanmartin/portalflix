@@ -2,64 +2,73 @@
   {
     "pelicula": "Any Given Sunday",
     "titulo": "El nuevo Home page",
-    "descripcion": "Un recorrido por el HOME PAGE del nuevo Portas GSS - Estamos Conectados. Toda la información sobre los diferentes accesos directos y áreas del nuevo sitio.",
-    "logo": "",
-    "coverImg": ""
+    "descripcion": "Un recorrido por el HOME PAGE del nuevo Portal GSS - Estamos Conectados. Toda la información sobre los diferentes accesos directos y áreas del nuevo sitio.",
+    "logo": "09_Sunday_title.png",
+    "cover": "09_Sunday_cover.jpg",
+    "thumbnail": "09_Sunday_icon.jpg"
   },
   {
     "pelicula": "La casa de papel",
     "titulo": "Accesos directos integrados",
     "descripcion": "El profesor nos muestra los beneficios de tener todos los accesos directos integrados en un solo lugar. NOS, SOMOS YAMMER, SIGNE y todos las plataformas que utilizamos más frecuentemente.",
-    "logo": "",
-    "coverImg": ""
+    "logo": "06_Casa_title.png",
+    "cover": "06_Casa_cover.jpg",
+    "thumbnail": "06_Casa_icon.jpg"
   },
   {
     "pelicula": "Jerry Maguire",
     "titulo": "Nuestra actualidad",
     "descripcion": "Tom Cruise nos muestra dónde encontraremos todas las novedades del grupo.",
-    "logo": "",
-    "coverImg": ""
+    "logo": "05_Jerry_title.png",
+    "cover": "05_Jerry_cover.jpg",
+    "thumbnail": "05_Jerry_icon.jpg"
   },
   {
     "pelicula": "Luis Miguel",
     "titulo": "Menú principal",
     "descripcion": "Desde el menú lateral tenemos acceso a los portales más frecuentes. El astro latinoamericano de la canción, nos muestra y describe las principales secciones.",
-    "logo": "",
-    "coverImg": ""
+    "logo": "02_Luismi_title.png",
+    "cover": "02_Luismi_cover.jpg",
+    "thumbnail": "02_Luismi_icon.jpg"
   },
   {
     "pelicula": "Día de la Independencia",
     "titulo": "NUESTRO GRUPO DESDE ADENTRO",
     "descripcion": "Todo lo que define al Grupo Sancor Seguros. El acceso a nuestro espacio institucional.",
-    "logo": "",
-    "coverImg": ""
+    "logo": "07_ID_title.png",
+    "cover": "07_ID_cover.jpg",
+    "thumbnail": "07_ID_icon.jpg"
   },
   {
     "pelicula": "Premios Oscar",
     "titulo": "CONSTRUYENDO JUNTOS",
     "descripcion": "Uno de los actores más taquilleros de Hollywood, el actor Leonardo Dicaprio nos cuenta dónde podemos informarnos sobre todos los proyectos que están dando forma al Sancor del futuro.",
-    "logo": "",
-    "coverImg": ""
+    "logo": "08_Oscar_title.png",
+    "cover": "08_Oscar_cover.jpg",
+    "thumbnail": "08_Oscar_icon.jpg"
   },
   {
     "pelicula": "Forrest Gump",
     "titulo": "Autogestión y documentación.",
-    "descripcion": "Forrest nos muestra el acceso desde el menú superior del nuevo Portal GSS,  para acceder a los documentos y formularios necesarios para la gestión diaria de nuestro trabajo. ",
-    "logo": "",
-    "coverImg": ""
+    "descripcion": "Forrest nos muestra el acceso desde el menú superior del nuevo Portal GSS, para acceder a los documentos y formularios necesarios para la gestión diaria de nuestro trabajo. ",
+    "logo": "04_Forrest_title.png",
+    "cover": "04_Forrest_cover.jpg",
+    "thumbnail": "04_Forrest_icon.jpg"
   },
   {
     "pelicula": "Toy Story 3",
     "titulo": "Acceso a Beneficios y Yammer",
     "descripcion": "El Oso recibe a los principales personajes de la saga y nos muestra a todos dos de los accesos directos que se encuentran en el nuevo Portal. Beneficios y Yammer.",
-    "logo": "",
-    "coverImg": ""
+    "logo": "01_Toy_title.png",
+    "cover": "01_Toy_cover.jpg",
+    "thumbnail": "01_Toy_icon.jpg"
   },
   {
     "pelicula": "GRU",
     "titulo": "El GRUPO",
     "descripcion": "El vínculo entre la comunicación interna y externa del Grupo Sancor Seguros.. Gru nos muestra dónde acceder para encontrar la información y link necesarios de todas las empresas que conforman el Grupo.",
-    "logo": "",
-    "coverImg": ""
+    "logo": "03_Gru_title.png",
+    "cover": "03_Gru_cover.jpg",
+    "thumbnail": "03_Gru_icon.jpg"
   }
 ]
