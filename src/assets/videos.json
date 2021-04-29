@@ -1,0 +1,65 @@
+[
+  {
+    "pelicula": "Any Given Sunday",
+    "titulo": "El nuevo Home page",
+    "descripcion": "Un recorrido por el HOME PAGE del nuevo Portas GSS - Estamos Conectados. Toda la información sobre los diferentes accesos directos y áreas del nuevo sitio.",
+    "logo": "",
+    "coverImg": ""
+  },
+  {
+    "pelicula": "La casa de papel",
+    "titulo": "Accesos directos integrados",
+    "descripcion": "El profesor nos muestra los beneficios de tener todos los accesos directos integrados en un solo lugar. NOS, SOMOS YAMMER, SIGNE y todos las plataformas que utilizamos más frecuentemente.",
+    "logo": "",
+    "coverImg": ""
+  },
+  {
+    "pelicula": "Jerry Maguire",
+    "titulo": "Nuestra actualidad",
+    "descripcion": "Tom Cruise nos muestra dónde encontraremos todas las novedades del grupo.",
+    "logo": "",
+    "coverImg": ""
+  },
+  {
+    "pelicula": "Luis Miguel",
+    "titulo": "Menú principal",
+    "descripcion": "Desde el menú lateral tenemos acceso a los portales más frecuentes. El astro latinoamericano de la canción, nos muestra y describe las principales secciones.",
+    "logo": "",
+    "coverImg": ""
+  },
+  {
+    "pelicula": "Día de la Independencia",
+    "titulo": "NUESTRO GRUPO DESDE ADENTRO",
+    "descripcion": "Todo lo que define al Grupo Sancor Seguros. El acceso a nuestro espacio institucional.",
+    "logo": "",
+    "coverImg": ""
+  },
+  {
+    "pelicula": "Premios Oscar",
+    "titulo": "CONSTRUYENDO JUNTOS",
+    "descripcion": "Uno de los actores más taquilleros de Hollywood, el actor Leonardo Dicaprio nos cuenta dónde podemos informarnos sobre todos los proyectos que están dando forma al Sancor del futuro.",
+    "logo": "",
+    "coverImg": ""
+  },
+  {
+    "pelicula": "Forrest Gump",
+    "titulo": "Autogestión y documentación.",
+    "descripcion": "Forrest nos muestra el acceso desde el menú superior del nuevo Portal GSS,  para acceder a los documentos y formularios necesarios para la gestión diaria de nuestro trabajo. ",
+    "logo": "",
+    "coverImg": ""
+  },
+  {
+    "pelicula": "Toy Story 3",
+    "titulo": "Acceso a Beneficios y Yammer",
+    "descripcion": "El Oso recibe a los principales personajes de la saga y nos muestra a todos dos de los accesos directos que se encuentran en el nuevo Portal. Beneficios y Yammer.",
+    "logo": "",
+    "coverImg": ""
+  },
+  {
+    "pelicula": "GRU",
+    "titulo": "El GRUPO",
+    "descripcion": "El vínculo entre la comunicación interna y externa del Grupo Sancor Seguros.. Gru nos muestra dónde acceder para encontrar la información y link necesarios de todas las empresas que conforman el Grupo.",
+    "logo": "",
+    "coverImg": ""
+  }
+]
