@@ -4,8 +4,8 @@ import logo_sancor from '../assets/svg/LogoS.svg'
 
 export default function Footer() {
   return (
-    <footer className="flex flex-col justify-center items-center w-1/4 space-y-2">
-      <img src={logo_portalflix} alt="logo Portalflix" className="w-16" />
+    <footer className="flex flex-col justify-center items-center w-96 space-y-2 pb-6">
+      <img src={logo_portalflix} alt="logo Portalflix" className="w-24" />
       <div className="flex gap-3">
         <p className="text-gray-400 text-sm">Un portal de</p>
         <img src={logo_sancor} alt="logo Sancor Seguros" className="w-16" />
