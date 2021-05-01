@@ -6,7 +6,7 @@ export default function Video(props) {
   return (
     <article className="w-auto h-60">
       <div style={{ backgroundImage: `url(${img})` }} className="w-full h-full relative bg-no-repeat bg-cover">
-        <button style={{ backgroundImage: `url(${playIcon})` }} className="absolute w-16 h-16 top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2"></button>
+        <button style={{ backgroundImage: `url(${playIcon})` }} className="absolute w-16 h-16 top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 focus:outline-none transition duration-200 ease-in-out hover:scale-110"></button>
       </div>
       <h3 className="font-bold text-white mt-2">{props.titulo}</h3>
     </article>

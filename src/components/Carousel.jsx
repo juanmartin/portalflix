@@ -28,8 +28,8 @@ export default function Carousel(props) {
             )
           })}
         </Slider>
-        <ButtonBack style={{backgroundImage: `url(${backBtnImg})`}} className="sm:w-8 h-12 bg-contain bg-no-repeat absolute top-1/2 transform -translate-y-36 left-10 focus:outline-none"></ButtonBack>
-        <ButtonNext style={{backgroundImage: `url(${nextBtnImg})`}} className="sm:w-8 h-12 bg-contain bg-no-repeat absolute top-1/2 transform -translate-y-36 right-10 focus:outline-none"></ButtonNext>
+        <ButtonBack style={{backgroundImage: `url(${backBtnImg})`}} className="sm:w-8 h-12 bg-contain bg-no-repeat absolute top-1/2 transform -translate-y-36 left-10 focus:outline-none transition duration-200 ease-in-out hover:scale-110"></ButtonBack>
+        <ButtonNext style={{backgroundImage: `url(${nextBtnImg})`}} className="sm:w-8 h-12 bg-contain bg-no-repeat absolute top-1/2 transform -translate-y-36 right-10 focus:outline-none transition duration-200 ease-in-out hover:scale-110"></ButtonNext>
       </CarouselProvider>
     </div>
   )
