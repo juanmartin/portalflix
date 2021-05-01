@@ -17,3 +17,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 } */
+
+.carouselAnimation {
+  transition: transform 1s;
+}

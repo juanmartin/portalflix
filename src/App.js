@@ -1,9 +1,9 @@
 import logo_portalflix from './assets/svg/LogoP.svg'
 import logo_sancor from './assets/svg/LogoS.svg'
-import Cover from './components/Cover'
 import Footer from './components/Footer'
 import VideoList from './components/VideoList'
 import videos from './assets/videos.json'
+import Carousel from './components/Carousel'
 
 function App() {
   return (
@@ -12,7 +12,9 @@ function App() {
         <img src={logo_portalflix} className="h-8" alt="Portalflix logo" />
         <img src={logo_sancor} className="h-8" alt="Sancor Seguros logo" />
       </header>
-      <Cover videos={videos} />
+      <div className="w-full overflow-hidden -mt-20">
+        <Carousel videos={videos} />
+      </div>
       <main className="sm:container w-11/12 pb-16 border-b border-gray-700">
         <VideoList videos={videos} />
       </main>
