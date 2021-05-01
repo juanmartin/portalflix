@@ -4,7 +4,7 @@ import logo_sancor from '../assets/svg/LogoS.svg'
 
 export default function Footer() {
   return (
-    <footer className="flex flex-col justify-center items-center w-96 space-y-2 pb-6">
+    <footer className="flex flex-col justify-center items-center w-96 space-y-2 mt-10 pb-6">
       <img src={logo_portalflix} alt="logo Portalflix" className="w-24" />
       <div className="flex gap-3">
         <p className="text-gray-400 text-sm">Un portal de</p>

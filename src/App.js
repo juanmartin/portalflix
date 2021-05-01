@@ -13,7 +13,7 @@ function App() {
         <img src={logo_sancor} className="h-8" alt="Sancor Seguros logo" />
       </header>
       <Cover videos={videos} />
-      <main className="container mb-6 pb-10 border-b border-gray-700">
+      <main className="sm:container w-11/12 pb-16 border-b border-gray-700">
         <VideoList videos={videos} />
       </main>
       <Footer />
