@@ -5,7 +5,6 @@ import backBtnImg from '../assets/svg/but_back.svg'
 import nextBtnImg from '../assets/svg/but_next.svg'
 
 export default function Carousel(props) {
-  const [slide, setSlide] = React.useState(0)
   return (
     <div>
       <CarouselProvider
@@ -14,7 +13,6 @@ export default function Carousel(props) {
         naturalSlideHeight={700} // h de las imagenes
         isPlaying
         infinite
-        currentSlide={slide}
         isIntrinsicHeight
       >
         <Slider
