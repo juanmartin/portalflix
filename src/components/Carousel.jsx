@@ -3,6 +3,7 @@ import Cover from './Cover'
 import { ButtonBack, ButtonNext, CarouselProvider, Slide, Slider } from 'pure-react-carousel'
 import backBtnImg from '../assets/svg/but_back.svg'
 import nextBtnImg from '../assets/svg/but_next.svg'
+import 'pure-react-carousel/dist/react-carousel.es.css';
 
 export default function Carousel(props) {
   return (
@@ -13,7 +14,6 @@ export default function Carousel(props) {
         naturalSlideHeight={700} // h de las imagenes
         isPlaying
         infinite
-        isIntrinsicHeight
       >
         <Slider
           classNameAnimation="carouselAnimation"

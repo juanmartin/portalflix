@@ -7,7 +7,7 @@ export default function Cover(props) {
 
   return (
     <article className="w-full h-full z-0 bg-cover bg-no-repeat" style={{ backgroundImage: `url(${cover})` }}>
-      <div className="bg-gradient-to-t from-black to-transparent pb-28">
+      <div className="h-full bg-gradient-to-t from-black to-transparent pb-28">
         <div className="space-y-5 px-5 md:px-0 pt-44 w-full md:w-96 md:ml-44">
           <img src={logo} alt={props.pelicula} />
           <h3 className="text-white font-bold text-xl">{props.titulo}</h3>
