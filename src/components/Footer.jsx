@@ -8,7 +8,7 @@ export default function Footer() {
       <img src={logo_portalflix} alt="logo Portalflix" className="w-24" />
       <div className="flex gap-3">
         <p className="text-gray-400 text-sm">Un portal de</p>
-        <img src={logo_sancor} alt="logo Sancor Seguros" className="w-16" />
+        <a href="https://www.sancorseguros.com.ar/" target="_blank" rel="noreferrer"><img src={logo_sancor} alt="logo Sancor Seguros" className="w-16" /></a>
       </div>
       <p className="text-gray-400 text-sm">Sancor Seguros S.A. - 2021. Todos los derechos reservados.</p>
     </footer>
