@@ -47,4 +47,4 @@ jobs:
         # Deletes ALL contents of server-dir, even items in excluded with exclude argument
         dangerous-clean-slate: # optional
         # How verbose should the information be - warn, info, debug
-        log-level: info
+        log-level: standard
