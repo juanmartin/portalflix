@@ -14,6 +14,7 @@ export default function Carousel(props) {
         naturalSlideHeight={700} // h de las imagenes
         isPlaying
         infinite
+        isIntrinsicHeight
       >
         <Slider
           classNameAnimation="carouselAnimation"
