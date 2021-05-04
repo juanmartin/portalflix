@@ -21,3 +21,7 @@ code {
 .carouselAnimation {
   transition: transform 1s;
 }
+
+[role="button"] {
+  cursor: default;
+}
