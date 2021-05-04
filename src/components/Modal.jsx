@@ -31,7 +31,7 @@ export default function Modal() {
         onClick={e => e.stopPropagation()}
       >
         <video controls autoPlay className="mx-auto" width="100%" height="auto">
-          <source src={window.location.origin + '/videos/' + slug + '.mp4'} type="video/mp4" />
+          <source src={window.location.origin + '/static/videos/' + slug + '.mp4'} type="video/mp4" />
         </video>
         <div className="lg:flex items-center">
           <img src={logo} alt={data.pelicula} className="max-w-md object-contain mx-auto" />
