@@ -30,7 +30,7 @@ export default function Modal() {
         role="button"
         onClick={e => e.stopPropagation()}
       >
-        <video controls autoPlay className="mx-auto" width="100%" height="auto">
+        <video controls preload="auto" className="mx-auto" width="100%" height="auto">
           <source src={window.location.origin + '/static/videos/' + slug + '.mp4'} type="video/mp4" />
         </video>
         <div className="lg:flex items-center">
