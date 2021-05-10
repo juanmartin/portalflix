@@ -1,5 +1,7 @@
 import React from 'react'
 import { useHistory, useLocation, useParams } from 'react-router-dom'
+import VideoPlayer from "./VideoPlayer"
+
 
 export default function Modal() {
   const data = useLocation().state.video
@@ -30,9 +32,10 @@ export default function Modal() {
         role="button"
         onClick={e => e.stopPropagation()}
       >
-        <video controls preload="auto" className="mx-auto" width="100%" height="auto">
+        {/* <video controls preload="auto" className="mx-auto" width="100%" height="auto">
           <source src={window.location.origin + '/static/videos/' + slug + '.mp4'} type="video/mp4" />
-        </video>
+        </video> */}
+        <VideoPlayer videoSrc={window.location.origin + '/static/videos/' + slug + '.mp4'} />
         <div className="lg:flex items-center">
           <img src={logo} alt={data.pelicula} className="max-w-md object-contain mx-auto" />
           <div>
